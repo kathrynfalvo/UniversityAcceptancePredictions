@@ -1,0 +1,2 @@
+# University Acceptance Predictions
+A Statistical Software Languages project with JavaScript, using student report card data to calculate GPA, determining and printing which post-secondary programs each student would be accepted into. This program can be used to determine acceptances for multiple students at once, then printing a summary of where each student would be accepted, grouped by program.
